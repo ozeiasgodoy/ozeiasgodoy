@@ -50,4 +50,10 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/ozeiasgodoy/" rel="nofollow">
     <img align="left" alt="Ozéias Godoy | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Linkedin.svg" style="max-width: 100%;">
   </a>
+  <a href="https://www.youtube.com/channel/UCgmyVMmvapeZzbglrKqzXlg" rel="nofollow">
+    <img align="left" alt="Ozéias Godoy | Youtube" width="24px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/344/external-youtube-social-media-justicon-lineal-color-justicon.png" style="max-width: 100%;">
+  </a>
+  
+ 
+  
  </div>
