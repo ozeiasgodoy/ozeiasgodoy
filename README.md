@@ -53,7 +53,20 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.youtube.com/channel/UCgmyVMmvapeZzbglrKqzXlg" rel="nofollow">
     <img align="left" alt="Ozéias Godoy | Youtube" width="24px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/344/external-youtube-social-media-justicon-lineal-color-justicon.png" style="max-width: 100%;">
   </a>
-  
  
-  
  </div>
+ </br>
+<div>
+  <h3>Stats:</h3>
+  <div align="center">
+    <a href="https://github.com/Gurupreet">
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozeiasgodoy&show_icons=true&theme=dracula&line_height=27" alt="**Ozéias Godoy** github stats"/>
+    </a>
+  </div>
+</div>
+<div align="center">
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozeiasgodoy&theme=dracula&hide_langs_below=0" />
+</a>
+</div>
+
