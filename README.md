@@ -66,7 +66,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 <div align="center">
 <a href="https://github.com/ozeiasgodoy?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozeiasgodoy&theme=dracula&hide_langs_below=0" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozeiasgodoy&theme=dracula&hide_langs_below=1" />
 </a>
 </div>
 
