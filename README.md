@@ -53,6 +53,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.youtube.com/channel/UCgmyVMmvapeZzbglrKqzXlg" rel="nofollow">
     <img align="left" alt="Ozéias Godoy | Youtube" width="24px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/344/external-youtube-social-media-justicon-lineal-color-justicon.png" style="max-width: 100%;">
   </a>
+  <a href="https://api.whatsapp.com/send/?phone=5543984073460&text=Ol%C3%A1!%20Peguei%20seu%20contato%20no%20GitHub" rel="nofollow">
+    <img align="left" alt="Ozéias Godoy | Whast" width="24px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/344/external-whatsapp-social-media-justicon-lineal-color-justicon.png" style="max-width: 100%;">
+  </a>
  
  </div>
  </br>
@@ -69,4 +72,6 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozeiasgodoy&theme=dracula&hide_langs_below=1" />
 </a>
 </div>
+
+
 
